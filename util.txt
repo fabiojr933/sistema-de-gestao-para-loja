@@ -1,0 +1,79 @@
+UNIDADE DE MEDIDA
+descriçao
+
+
+Marca
+descrição
+
+Categoria
+descrição
+
+Fluxo financeiro
+descrição
+tipo(despesa ou receita)
+tipo de custo(fixa ou variavel)
+
+Produto
+--informaçoes geral--
+nome
+marca
+unidade
+categoria
+fornecedor
+codigo de barra
+observação
+
+--Valores--
+Valor de custo
+Margem de lucro
+valor de venda
+Estoque disponivel
+estoque minimo
+estoque maximo
+imagem
+
+
+
+CLIENTE
+--dados basicos--
+(pessoa fisica ou juridica)
+cfp
+rg
+nome
+email
+data nascimento
+telefone
+--endereço--
+cep
+rua
+numero
+bairro
+cidade
+complemento
+
+
+FORNECEDOR
+--dados basicos--
+(pessoa fisica ou juridica)
+cfp
+rg
+nome
+email
+data nascimento
+telefone
+--endereço--
+cep
+rua
+numero
+bairro
+cidade
+complemento
+
+
+financeiro
+--lancamento--
+data
+categoria(despesa ou receita)
+descricao
+fornecedor
+observação
